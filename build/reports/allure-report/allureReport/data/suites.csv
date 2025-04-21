@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Apr 21 18:17:52 MSK 2025","Mon Apr 21 18:18:17 MSK 2025","24463","","Автоматизация поиска в Google","","tests.SearchInGoogleTest","checkPaginationTest","Проверка пагинации",""
+"passed","Mon Apr 21 18:18:17 MSK 2025","Mon Apr 21 18:18:54 MSK 2025","37556","","Автоматизация поиска в Google","","tests.SearchInGoogleTest","checkImagesTest","Проверка изображений на странице поиска",""
+"passed","Mon Apr 21 18:19:17 MSK 2025","Mon Apr 21 18:19:38 MSK 2025","20955","","Автоматизация поиска в Google","","tests.SearchInGoogleTest","checkSearchTest","Проверка работы поиска",""
+"passed","Mon Apr 21 18:18:55 MSK 2025","Mon Apr 21 18:19:17 MSK 2025","22426","","Автоматизация поиска в Google","","tests.SearchInGoogleTest","checkOtherElementsTest","Проверка отображения других элементов на странице",""
